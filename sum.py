@@ -1,9 +1,9 @@
 import sys
-def main(sys.argv[sys.in]):
+def main():
         a=sys.argv[1]
         b=sys.argv[2]
-        sum=sys.argv[1]+sys.argv[2]
-        print('Sum%s' %sum)
+        sum=a+b
+        print('sum)
     
 __name__=='__main__':
     main()
